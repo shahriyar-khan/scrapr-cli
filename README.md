@@ -3,7 +3,7 @@ A light weight cli tool that scrapes email addresses
 
 ### Requirements
 1. Windows/Mac/Linux
-2. Python 3+
+2. Python 3+ and Pip
 3. Click 7.1.2 (included at install)
 
 
