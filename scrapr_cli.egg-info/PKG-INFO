@@ -1,0 +1,16 @@
+Metadata-Version: 1.1
+Name: scrapr-cli
+Version: 0.0.1
+Summary: A light weight cli tool that scrapes email addresses
+Home-page: https://github.com/shahriyar-khan/scrapr-cli
+Author: Shahriyar Khan
+Author-email: kshahriyar4@gmail.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating Systems :: OS Independent
+Classifier: Development Status :: 4 - Beta
+Classifier: Environment :: Console
+Classifier: Intended Audience :: End Users/Desktop

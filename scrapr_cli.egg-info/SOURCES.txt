@@ -1,0 +1,7 @@
+setup.py
+scrapr_cli.egg-info/PKG-INFO
+scrapr_cli.egg-info/SOURCES.txt
+scrapr_cli.egg-info/dependency_links.txt
+scrapr_cli.egg-info/entry_points.txt
+scrapr_cli.egg-info/requires.txt
+scrapr_cli.egg-info/top_level.txt

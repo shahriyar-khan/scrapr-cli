@@ -1,0 +1,4 @@
+
+            [console_scripts]
+            scrapr=scrapr_cli.app:scrapr
+        
