@@ -1,4 +1,4 @@
-# scrapr-cli
+# scrapr-cli 0.0.2
 A light weight cli tool that scrapes email addresses
 
 ### Requirements
