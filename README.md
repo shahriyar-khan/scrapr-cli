@@ -17,3 +17,11 @@ Run the following after install for help on how to use
 ```
 scrapr --help
 ```
+
+### Changelog
+[Version 0.0.1 - 04/19/2020]
+- Initial release
+- Fixed HTTP 406 error with header request
+
+[Version 0.0.2 - 04/19/2020]
+- Fixed FileNotFoundError: 'requirements.txt'
